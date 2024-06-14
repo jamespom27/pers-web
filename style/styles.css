@@ -1,0 +1,40 @@
+body {
+    background-color: #36A1D4;
+}
+header {
+    font-family: Arial, 
+    Helvetica, 
+    sans-serif;
+    border: 10px solid #012641;
+    text-align: center;
+    color: white;
+}
+div {
+    width: 900px;
+    word-wrap: break-word;
+    color: white;
+}
+image1{
+    float: right;
+    float: up;
+}
+header2 {
+    color: white;
+}
+header3 {
+    color: white;
+}
+footer{
+    color: white;
+}
+a {
+    color: white;
+}
+
+a.JamesLink {
+    color: blue;
+}
+
+a.DesignLink {
+    color: red;
+}
